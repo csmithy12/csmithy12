@@ -1,2 +1,5 @@
-- 👋 Hi, I’m @csmithy12
-- I'm currently learning how to Code different JavaScript websites and create Python Games
+- 👋 Hi, I’m @csmithy12.
+- I'm currently learning how to Code different JavaScript websites.
+- I want to learn how to create more complex python games.
+- Some projects I have worked on and completed include: An "About me" website , A website for my resume created by html, and a Pincode.
+- 
